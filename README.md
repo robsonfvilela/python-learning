@@ -1,2 +1,2 @@
 # python-learning
-Exercícios de Python.
+# Exercícios de Python.

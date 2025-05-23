@@ -4,4 +4,4 @@
 
 ## Diretórios
 
-([Testes](testes):* diertório com testes que faço para experimentar ideias.
+*[Testes](testes):* diertório com testes que faço para experimentar ideias.
